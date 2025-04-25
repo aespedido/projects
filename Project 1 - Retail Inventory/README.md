@@ -41,3 +41,4 @@ The Top 10 popular products was identified to be:
 9. Sunglasses
 10. Coat
 
+Note Jeans is really a low performing item
