@@ -1,9 +1,11 @@
-# Introduction
+# Project - Telecom Customer Churn Analysis
 
-# Executive Summary
+## Introduction
 
-# Dashboard approach and design
+## Executive Summary
 
-# Insights
+## Dashboard approach and design
 
-# Recommendations
+## Insights
+
+## Recommendations
