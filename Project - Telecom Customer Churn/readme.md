@@ -1,9 +1,9 @@
-#Introduction
+# Introduction
 
-#Executive Summary
+# Executive Summary
 
-#Dashboard approach and design
+# Dashboard approach and design
 
-#Insights
+# Insights
 
-#Recommendations
+# Recommendations
