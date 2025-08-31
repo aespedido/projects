@@ -27,14 +27,24 @@ As part of this data exploration, age group bands and tenure bands was added to 
 ### Dashboard Build
 Following the exploratory analysis, the next stage of the project focused on building an interactive dashboard. The purpose of the dashboard is to provide stakeholders with a high level view of the company's churn performance and its key drivers.
 
-The dashboard was structured into three main sections:
+The dashboard was structured into three main sections; high level churn performance, behaviour-based drivers and service-based drivers. Selection of visualisations was based on the exploratory analysis where potential churn drivers that actually showed to have an impact on churn were included on the dashboard. The following visualisations are included in the dashboard:
 
 **High level churn performance**
-This section highlights overall churn   with visualisations such as:
 - Overall Churn rate KPI card
 - Churned vs Retained pie chart
 - Top 10 Churn Reasons bar chart
 - Churn Reason by Category pie chart
+
+**Behaviour-based drivers**
+- Churn by Contract Type bar chart
+- Churn by Customer Tenure Group bar chart
+- Churn by Monthly Charge bar chart
+- Churn by Customer Monthly Data Usage bar chart
+
+**Service-related drivers**
+- Impact of Online Security on Churn bar chart
+- Impact of Online Backup on Churn
+- Device Protection Plan
 
 
 ## Insights
