@@ -25,7 +25,16 @@ Next, analysis moved onto evaluating potential churn drivers across services, de
 As part of this data exploration, age group bands and tenure bands was added to the dataset to effectively evaluate if certain groupings influenced churn behaviour.
 
 ### Dashboard Build
-Only picked charts that appeared to have impact on churn
+Following the exploratory analysis, the next stage of the project focused on building an interactive dashboard. The purpose of the dashboard is to provide stakeholders with a high level view of the company's churn performance and its key drivers.
+
+The dashboard was structured into three main sections:
+
+**High level churn performance**
+This section highlights overall churn   with visualisations such as:
+- Overall Churn rate KPI card
+- Churned vs Retained pie chart
+- Top 10 Churn Reasons bar chart
+- Churn Reason by Category pie chart
 
 
 ## Insights
