@@ -27,26 +27,34 @@ As part of this data exploration, age group bands and tenure bands was added to 
 ### Dashboard Build
 Following the exploratory analysis, the next stage of the project focused on building an interactive dashboard. The purpose of the dashboard is to provide stakeholders with a high level view of the company's churn performance and its key drivers.
 
-The dashboard was structured into three main sections; high level churn performance, behaviour-based drivers and service-based drivers. Selection of visualisations was based on the exploratory analysis where potential churn drivers that actually showed to have an impact on churn were included on the dashboard. The following visualisations are included in the dashboard:
+The dashboard was structured into three main sections; high level churn performance, churn behaviour drivers and service-based drivers. Selection of visualisations was based on the exploratory analysis where potential churn drivers that showed a meaningful impact on churn were included on the dashboard.
 
 **High level churn performance**
+This section provides a snapshot of overall customer churn with visualisations including:
 - Overall Churn rate KPI card
 - Churned vs Retained pie chart
 - Top 10 Churn Reasons bar chart
 - Churn Reason by Category pie chart
 
 **Behaviour-based drivers**
-- Churn by Contract Type bar chart
-- Churn by Customer Tenure Group bar chart
-- Churn by Monthly Charge bar chart
-- Churn by Customer Monthly Data Usage bar chart
+This section highlights customer and account-related factors that were found to influence churn such as tenure, contract type, monthly charges and data usage. Visualisations included:
+- Churn by Contract Type (bar chart)
+- Churn by Customer Tenure Group (bar chart)
+- Churn by Monthly Charge (bar chart)
+- Churn by Customer Monthly Data Usage (bar chart)
 
 **Service-related drivers**
-- Impact of Online Security on Churn bar chart
-- Impact of Online Backup on Churn
-- Device Protection Plan
+This section highlights services and add-ons that showed an impact on churn. Visualisations included:
+- Impact of Online Security on Churn (bar chart)
+- Impact of Online Backup on Churn (bar chart)
+- Impact of Device Protection Plan on Churn (bar chart)
 
 
 ## Insights
+Things to highlight:
+- Churn rate
+- Top reasons for churn
+- Churn drivers - example people are more likely to churn in the first 6 months, people with month-to-month contract are likely to churn
+- People that had services had a lower churn rate
 
 ## Recommendations
