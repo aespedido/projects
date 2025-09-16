@@ -51,10 +51,32 @@ This section highlights services and add-ons that showed an impact on churn. Vis
 
 
 ## Insights
+The Customer Churn Drivers Dashboard highlights several key findings and insights about customer churn. It gives a view of the overall churn performance, the main reasons customers report for leaving and factors that are influencing churn.
+
+### High-level churn performance
+The dashboard shows that the churn rate is 23.54%. The top reason that customers reported they have left is due to a competitor having better devices (20.70%), followed by the competitor making a better offer  (20.57%). This suggests that churn is strongly linked to competitor offerings, particularly around devices and pricing. This is further supported by 45% of churned customers falling under the 'Competitor'category for churn reasons.
+
+14.55% of churned customers also reported they left due to the attitude of support person indicating that negative customer service interactions can turn customers away.
+
+### Behavioural Drivers**
+In this section of the dashboard, there are several insights that can be observed. These are the types of customers that are more likely to churn:
+- Customers with a month-to-month contract
+- Customers in the first 6 months of their contract with the churn rate decreasing the longer they stay
+- Customers with a higher monthly charge
+- Customers that use up to 30 GB of data (check this)
+
+**Contract Type**
+Customers with a month-to-month contract are more likely to churn as the churn rate is 23.50%.
+
+**Churn by Customer Tenure Group**
+Customers 
+
 Things to highlight:
 - Churn rate
 - Top reasons for churn
 - Churn drivers - example people are more likely to churn in the first 6 months, people with month-to-month contract are likely to churn
 - People that had services had a lower churn rate
+
+
 
 ## Recommendations
