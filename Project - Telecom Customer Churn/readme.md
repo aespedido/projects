@@ -41,7 +41,6 @@ This section highlights customer and account-related factors that were found to 
 - Churn by Contract Type (bar chart)
 - Churn by Customer Tenure Group (bar chart)
 - Churn by Monthly Charge (bar chart)
-- Churn by Customer Monthly Data Usage (bar chart)
 
 **Service-related drivers**
 This section highlights services and add-ons that showed an impact on churn. Visualisations included:
@@ -59,17 +58,17 @@ The dashboard shows that the churn rate is 23.54%. The top reason that customers
 14.55% of churned customers also reported they left due to the attitude of support person indicating that negative customer service interactions can turn customers away.
 
 ### Behavioural Drivers**
-In this section of the dashboard, there are several insights that can be observed. These are the types of customers that are more likely to churn:
-- Customers with a month-to-month contract
-- Customers in the first 6 months of their contract with the churn rate decreasing the longer they stay
-- Customers with a higher monthly charge
-- Customers that use up to 30 GB of data (check this)
+This section of the dashboard highlights customer and account-related factors that influence churn. It was found that contract type, length of tenure and pricing has a notabe impact on customer retention. These are the insights that emerged:
 
 **Contract Type**
-Customers with a month-to-month contract are more likely to churn as the churn rate is 23.50%.
+Customers on month-to-month contract are significantly more likely to churn (23.50%) compared to those on one-year (2.36%) or two-year contract (0.68%). 
 
-**Churn by Customer Tenure Group**
-Customers 
+**Customer Tenure**
+The risk of churn is highest in the first 6 months of a customer's tenure (9.74%) and gradually decreases the longer a customer stays. 
+
+**Monthly Charges**
+Churn rates increase as monthly charges rise, from just 1.70% among customers paying $21-41 to 8.96% among those paying $81-101. The impact that pricing has on churn is supported by the 5.16% of churned customers who reported "price too high" as their reason for leaving.
+
 
 Things to highlight:
 - Churn rate
