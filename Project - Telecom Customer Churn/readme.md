@@ -69,13 +69,38 @@ The risk of churn is highest in the first 6 months of a customer's tenure (9.74%
 **Monthly Charges**
 Churn rates increase as monthly charges rise, from just 1.70% among customers paying $21-41 to 8.96% among those paying $81-101. The impact that pricing has on churn is supported by the 5.16% of churned customers who reported "price too high" as their reason for leaving.
 
+### Service-related Drivers ###
+This section of the dashboard explores how service add-ons impact customer retention. The analysis found that customers who sign up to additional services such as online security, online backup or device protection are less likely to churn. This indicates that these services enhance customer experience and satisfaction, contributing to stronger loyalty to the organisation.
 
-Things to highlight:
-- Churn rate
-- Top reasons for churn
-- Churn drivers - example people are more likely to churn in the first 6 months, people with month-to-month contract are likely to churn
-- People that had services had a lower churn rate
+**Online Security**
+Customers with online security only had a churn rate of 5.35%, compared to 26.48% among those without it. 
+
+**Online Backup**
+Customers with online backup also show a lower churn rate (9.48%) than those without it (22.35%)
+
+**Device Protection Plan**
+Customers who have a device protection plan churn at a lower rate (9.88%) than those without (21.95%).
+
+## Recommendations ##
+This analysis highlighted the key drivers that influence customer churn. As a result, several opportunities were identified to strengthen retention and improve the overall customer experience. The following recommendations outline potential actions to address these drivers and build stronger customer loyalty. 
+
+**1. Strengthen Early Engagement**
+It was found that customers are most likely to leave within their first six months. Introducing proactive engagement initiatives such as onboarding programs, early satisfaction surveys and personalised offers can help build trust and satisfaction during this critical period.
+
+**2. Encourage Longer-Term Contracts**
+Customers on a month-to-month contract were found to have significant higher rates of churn compared to those in longer-term contracts. Encouraging longer-term commitments through loyalty reward, discounts and exclusive benefits could help reduce churn and improve customer stability.
+
+**3. Review Pricing and Value Perception**
+Higher monthly charges were linked to higher churn rates, with some customers citing "price too high"as their reason for leaving. This could be addressed by reviewing pricing structures, offering flexible payment options or introducing bundled plans to enhance perceived value.
+
+**4. Enhance Customer Service Experience**
+Poor service interactions was one of the top reasons customers cited as their reason for leaving. Uplifting frontline training, improving resolution times and tracking customer satisfaction metrics can help enhance service quality.
+
+**5. Promote Service Add-ons**
+Customers who subscribed to online sercurity, online backup or device protection services had significantly lower churn rates than those without those add-ons. Promoting these services should be prioritised which could include providing bundled plans, cross-selling or increasing awareness through marketing campaigns.
+
+**6. Stay Competitor with Market Offers**
+Competitor-related churn was found to be a key driver, particularly around better devices and prices being offered by a competitor. Conducting regular competitor benchmarking and reviewing product offerings and pricing will be important to keep the organisation competitive and responsive to the market.
 
 
 
-## Recommendations
