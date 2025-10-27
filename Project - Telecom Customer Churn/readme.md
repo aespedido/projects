@@ -1,8 +1,14 @@
 # Project - Telecom Customer Churn Analysis
 
 ## Introduction
+This project focuses on a fictional telecommunications company seeking to have a better understanding of customer churn behaviours and drivers. The aim of the project is to analyse customer churn data to uncover key factors influencing churn and identify opportunities to improve retention. 
+
+An interactive dashboard was developed to visualise churn performance and its main drivers, enabling stakeholders to explore insights across customer demographics, service subscriptions and account characteristics. 
+
+The findings of this analysis informed a set of actionable recommendations aimed to strengthen customer retention and enhance customer satisfaction.
 
 ## Executive Summary
+
 
 ## Methodology & Dashboard Design
 ### Data Preparation
