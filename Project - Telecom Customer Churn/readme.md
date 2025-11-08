@@ -1,14 +1,26 @@
 # Project - Telecom Customer Churn Analysis
 
 ## Introduction
-This project focuses on a fictional telecommunications company seeking to have a better understanding of customer churn behaviours and drivers. The aim of the project is to analyse customer churn data to uncover key factors influencing churn and identify opportunities to improve retention. 
+This project focuses on a fictional telecommunications company named TeleCo that are seeking to have a better understanding of customer churn behaviours and drivers. The aim of the project is to analyse customer churn data to uncover key factors influencing churn and identify opportunities to improve retention. 
 
 An interactive dashboard was developed to visualise churn performance and its main drivers, enabling stakeholders to explore insights across customer demographics, service subscriptions and account characteristics. 
 
 The findings of this analysis informed a set of actionable recommendations aimed to strengthen customer retention and enhance customer satisfaction.
 
 ## Executive Summary
+TeleCo is a telecommunications company that want to understand the key drivers of customer churn with the aim to improve retention. Customer churn data was analysed to uncover churn patterns and an interactive dashboard was developed for TeleCo's senior stakeholders to visualise key insights.
 
+The analysis revealed an overall churn rate of 23.54%, primarily driven by better competitor offerings and pricing, followed by poor customer service. Month-to-month contracts and higher monthly charges were found to correlate with churn. It was also identified that customers who were in their first 6 months with TeleCo were at higher risk of churning. In contrast, customers who signed up for add-on services such as online security, online backup or device protection showed lower churn rates.
+
+Based on these findings, several recommendations have been proposed:
+- Strengthening early engagement
+- Encouraging longer-term contracts
+- Reviewing pricing structures
+- Uplifting customer service experience
+- Promoting add-on services
+- Maintaining market competitiveness
+
+These recommendations are aimed to reduce customer churn and improve customer satisfaction within TeleCo.
 
 ## Methodology & Dashboard Design
 ### Data Preparation
