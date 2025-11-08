@@ -43,7 +43,7 @@ Next, analysis moved onto evaluating potential churn drivers across services, de
 As part of this data exploration, age group bands and tenure bands was added to the dataset to effectively evaluate if certain groupings influenced churn behaviour.
 
 ### Dashboard Build
-Following the exploratory analysis, the next stage of the project focused on building an interactive dashboard. The purpose of the dashboard is to provide stakeholders with a high level view of the company's churn performance and its key drivers.
+Following the exploratory analysis, the next stage of the project focused on building an interactive dashboard. The purpose of the dashboard is to provide TeleCo's senior stakeholders with a high level view of the company's churn performance and its key drivers.
 
 The dashboard was structured into three main sections; high level churn performance, churn behaviour drivers and service-based drivers. Selection of visualisations was based on the exploratory analysis where potential churn drivers that showed a meaningful impact on churn were included on the dashboard.
 
