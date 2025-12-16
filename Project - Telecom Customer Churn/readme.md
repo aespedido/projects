@@ -45,7 +45,7 @@ As part of this data exploration, age group bands and tenure bands was added to 
 ### Dashboard Build
 Following the exploratory analysis, the next stage of the project focused on building an interactive dashboard. The purpose of the dashboard is to provide TeleCo's senior stakeholders with a high level view of the company's churn performance and its key drivers.
 
-The dashboard was structured into three main sections; high level churn performance, churn behaviour drivers and service-based drivers. Selection of visualisations was based on the exploratory analysis where potential churn drivers that showed a meaningful impact on churn were included on the dashboard.
+The dashboard was structured into three main sections; high level churn performance, churn behaviour drivers and service-based drivers. Selection of visualisations was based on the exploratory analysis where potential churn drivers showed a meaningful impact on churn were included on the dashboard.
 
 **High level churn performance**
 This section provides a snapshot of overall customer churn with visualisations including:
@@ -71,7 +71,7 @@ This section highlights services and add-ons that showed an impact on churn. Vis
 The Customer Churn Drivers Dashboard highlights several key findings and insights about customer churn. It gives a view of the overall churn performance, the main reasons customers report for leaving and factors that are influencing churn.
 
 ### High-level churn performance
-The dashboard shows that the churn rate is 23.54%. The top reason that customers reported they have left is due to a competitor having better devices (20.70%), followed by the competitor making a better offer  (20.57%). This suggests that churn is strongly linked to competitor offerings, particularly around devices and pricing. This is further supported by 45% of churned customers falling under the 'Competitor'category for churn reasons.
+The dashboard shows that the churn rate is 26.54%. The top reason that customers reported they have left is due to a competitor having better devices (20.70%), followed by the competitor making a better offer  (20.57%). This suggests that churn is strongly linked to competitor offerings, particularly around devices and pricing. This is further supported by 45% of churned customers falling under the 'Competitor'category for churn reasons.
 
 14.55% of churned customers also reported they left due to the attitude of support person indicating that negative customer service interactions can turn customers away.
 
@@ -85,7 +85,7 @@ Customers on month-to-month contract are significantly more likely to churn (23.
 The risk of churn is highest in the first 6 months of a customer's tenure (9.74%) and gradually decreases the longer a customer stays. 
 
 **Monthly Charges**
-Churn rates increase as monthly charges rise, from just 1.70% among customers paying $21-41 to 8.96% among those paying $81-101. The impact that pricing has on churn is supported by the 5.16% of churned customers who reported "price too high" as their reason for leaving.
+Churn rates increase as monthly charges rise, from a 1.70% churn rate among customers paying $21-41 to an 8.96% churn rate among those paying $81-101. The impact that pricing has on churn is supported by the 5.16% of churned customers who reported "price too high" as their reason for leaving.
 
 ### Service-related Drivers ###
 This section of the dashboard explores how service add-ons impact customer retention. The analysis found that customers who sign up to additional services such as online security, online backup or device protection are less likely to churn. This indicates that these services enhance customer experience and satisfaction, contributing to stronger loyalty to the organisation.
@@ -109,7 +109,7 @@ It was found that customers are most likely to leave within their first six mont
 Customers on a month-to-month contract were found to have significant higher rates of churn compared to those in longer-term contracts. Encouraging longer-term commitments through loyalty reward, discounts and exclusive benefits could help reduce churn and improve customer stability.
 
 **3. Review Pricing and Value Perception**
-Higher monthly charges were linked to higher churn rates, with some customers citing "price too high"as their reason for leaving. This could be addressed by reviewing pricing structures, offering flexible payment options or introducing bundled plans to enhance perceived value.
+Higher monthly charges were linked to higher churn rates, with some customers citing "price too high" as their reason for leaving. This could be addressed by reviewing pricing structures, offering flexible payment options or introducing bundled plans to enhance perceived value.
 
 **4. Enhance Customer Service Experience**
 Poor service interactions was one of the top reasons customers cited as their reason for leaving. Uplifting frontline training, improving resolution times and tracking customer satisfaction metrics can help enhance service quality.
@@ -120,5 +120,5 @@ Customers who subscribed to online sercurity, online backup or device protection
 **6. Stay Competitor with Market Offers**
 Competitor-related churn was found to be a key driver, particularly around better devices and prices being offered by a competitor. Conducting regular competitor benchmarking and reviewing product offerings and pricing will be important to keep the organisation competitive and responsive to the market.
 
-
+These are the recommendations based on the analysis performed on TeleCo's churn data. 
 
