@@ -10,7 +10,7 @@ The findings of this analysis informed a set of actionable recommendations aimed
 ## Executive Summary
 TeleCo is a telecommunications company that want to understand the key drivers of customer churn with the aim to improve retention. Customer churn data was analysed to uncover churn patterns and an interactive dashboard was developed for TeleCo's senior stakeholders to visualise key insights.
 
-The analysis revealed an overall churn rate of 23.54%, primarily driven by better competitor offerings and pricing, followed by poor customer service. Month-to-month contracts and higher monthly charges were found to correlate with churn. It was also identified that customers who were in their first 6 months with TeleCo were at higher risk of churning. In contrast, customers who signed up for add-on services such as online security, online backup or device protection showed lower churn rates.
+The analysis revealed an overall churn rate of 26.54%, primarily driven by better competitor offerings and pricing, followed by poor customer service. Month-to-month contracts and higher monthly charges were found to correlate with churn. It was also identified that customers who were in their first 6 months with TeleCo were at higher risk of churning. In contrast, customers who signed up for add-on services such as online security, online backup or device protection showed lower churn rates.
 
 Based on these findings, several recommendations have been proposed:
 - Strengthening early engagement
@@ -20,7 +20,7 @@ Based on these findings, several recommendations have been proposed:
 - Promoting add-on services
 - Maintaining market competitiveness
 
-These recommendations are aimed to reduce customer churn and improve customer satisfaction within TeleCo.
+Following these recommendations should translate to reduced customer churn and improved customer satisfaction within TeleCo.
 
 ## Methodology & Dashboard Design
 ### Data Preparation
