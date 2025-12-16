@@ -120,5 +120,5 @@ Customers who subscribed to online sercurity, online backup or device protection
 **6. Stay Competitor with Market Offers**
 Competitor-related churn was found to be a key driver, particularly around better devices and prices being offered by a competitor. Conducting regular competitor benchmarking and reviewing product offerings and pricing will be important to keep the organisation competitive and responsive to the market.
 
-These are the recommendations based on the analysis performed on TeleCo's churn data. 
+These are the recommendations based on the analysis performed on TeleCo's churn data. As next steps, TeleCo should assess which recommendations should prioritised in the short term and which will require lonnger term strategic planning.
 
