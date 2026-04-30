@@ -1,8 +1,28 @@
 # Project - E-Commerce Sales Report
 
-## Introdction
+## Introduction
+This project focuses on a fictional e-commerce retailer called PrimeCart, seeking to better understand the key drivers of profitability across its business. The aim of the project is to analyse sales data to identify the factors influencing profit performance and uncover opportunities to improve overall margins.
+
+An interactive dashboard was developed in Power BI to visualise overall sales performance and its key drivers, enabling stakeholders to explore insights and better understand what is driving business outcomes.
+
+The findings of this analysis informed a set of actionable recommendations aimed at improving profitability and supporting more effective business decision-making.
 
 ## Executive Summary
+PrimeCart is an e-commerce retailer seeking to better understand the key drivers of profitability, with the aim of improving overall margins and business performance. A Power BI dashboard was developed to monitor sales performance and provide visibility into the key factors influencing profitability, enabling stakeholders to identify insights and support data-driven decision-making.
+
+The analysis revealed that profitability is primarily driven by the Furniture and Technology categories, while Office Supplies lags behind. Clothing & Accessories, despite lower sales, delivers higher profit margins, indicating an opportunity to grow this product category. Discounting was also found to reduce profit margins, highlighting the need for a more controlled approach to pricing and promotions.
+
+At a product level, while top-selling products generate the highest total profit, they do not always achieve the highest margins. Some lower-selling products deliver stronger profit margins, indicating an opportunity to promote these products alongside high-volume items to improve overall profitability. It was also found that the Consumer segment drives the majority of sales and order volume, while Corporate customers maintain relatively strong order values.
+
+Based on these findings, several recommendations have been proposed:
+
+- Optimising product mix to balance volume and profitability
+- Prioritising high-performing categories while reviewing underperforming ones
+- Expanding the Clothing & Assessories category
+- Implementing a more targeted discount strategy
+- Leveraging customer segments based on purchasing behaviour
+
+Following these recommendations is expected to improve overall profitability by enhancing margin efficiency and supporting more targeted business decisions within PrimeCart.
 
 ## Dashboard Overview
 
@@ -13,7 +33,7 @@ The following insights emerged from the dashboards, highlighting the key drivers
 The top-performing products in profit are largely from the Furniture category, highlighting its role as a key driver in profitability. Overall, Furniture generated a profit of $81.1K, followed by Technology at $48.2K. In contrast, Office Supplies only generated $3.3K in profit, indicating a clear gap in performance across categories.
 
 **2. Clothing & Assessories delivers higher profit margins despite lower sales**
-The Clothing & Assessories category has lower sales ($69.3K) and profit ($26.1K) however it achieves higher profit margins of around 37.6%, compared to Furniture (31.6%) and Technology (34.6%). This indicates that while it contributes less in overall revenue, it is efficient in generating profit, suggesting an opportunity to grow this category. 
+The Clothing & Assessories category has lower sales ($69.3K) and profit ($26.1K) however it achieves higher profit margins of around 37.6%, compared to Furniture (31.6%) and Technology (34.6%). This indicates that while it contributes less in overall revenue, it is efficient in generating profit, therefore suggesting an opportunity to grow this category. 
 
 **3. Discounts are inefficient in driving profitability**
 Profit margins were found to decline steadily as discounts increased, indicating discounts had a negative impact on proftability. This suggests that discounts should be carefully managed.
@@ -24,8 +44,8 @@ The Consumer segment generates the highest sales and order volume, making it the
 **5. Sales and profit are concerntrated in Europe, North America and Asia Pacific**
 Europe, North America and Asia Pacific are the highest performing regions in sales and profit, while South America and the Middle East & Africa perform significantly lower. This shows that overall performance is driven by Europe, North America and Asia Pacific, however there is opportunities to grow in underperforming markets.
 
-**6. High sales volume does not always translate to strong profitability**
-Some products generate high sales volumes but deliver lower profit margins, indicating that strong revenue performance does not always lead to high profitability. For example, the Standing Desk Converter generates approximately $46K in sales with a margin of ~31% while the Business Casual Blazer generates lower sales of around $14K but achieves a higher margin of ~42%. This highlights that beyond top-selling products, there are efficient, higher-margins that can be promoted to drive overall profitability.
+**6. High-performing products vary between volume and margin efficiency**
+While top-selling products generate the highest total profit, they do not always achieve the highest profit margins. For example, the Standing Desk Converter generates approximately $46K in sales with a margin of ~31%, while the Business Casual Blazer generates lower sales of around $14K but achieves a higher margin of ~42%. This highlights that, beyond top-selling products, there are more efficient, higher-margin items that can be promoted alongside them to improve overall profitability.
 
 ## Recommendations
 This analysis identified the key drivers of profitability across products, customer segments, and regions. Based on these insights, several opportunities were identified to improve margins and overall business performance. The following recommendations outline potential actions to address these areas and drive more sustainable profitability.
@@ -36,7 +56,7 @@ While high-selling products generate significant revenue, some lower-selling pro
 **2. Prioritise high-performing categories while reviewing underperforming ones**
 Furniture and Technology contribute the majority of overall profit, while Office Supplies generates minimal returns. The business should continue to prioritise high-performing categories through investment and expansion, while reviewing the strategy for Office Supplies, including pricing, cost structure, or product assortment.
 
-**3. Expand high-margin categories to improve profitability**
+**3. Expand Clothing & Assessories category to improve profitability**
 Clothing & Accessories delivers higher profit margins despite lower sales, indicating strong profitability efficiency. There is an opportunity to grow this category through increased marketing, broader product offerings, or improved visibility to drive higher revenue without compromising margins.
 
 **4. Implement a more targeted and controlled discount strategy**
