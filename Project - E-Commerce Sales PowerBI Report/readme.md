@@ -25,6 +25,19 @@ Based on these findings, several recommendations have been proposed:
 Following these recommendations is expected to improve overall profitability by enhancing margin efficiency and supporting more targeted business decisions within PrimeCart.
 
 ## Dashboard Overview
+The PowerBI report developed consists of our interactive dashboards designed to provide visibility into sales performance and the key drivers of profitability. Each dashboard focuses on a specific area of the business, enabling stakeholders to explore insights at different levels.
+
+**Sales Overview**
+Provides a high-level view of overall business performance, including key metrics such as total sales, profit, profit margin, and number of orders. It also displays monthly sales and profit, along with breakdowns by product category and country, allowing stakeholders to monitor performance over time and across markets.
+
+**Product Insights**
+Focuses on product-level performance, highlighting top-performing products by profit and providing visibility into sales, profit, and profit margin across the product portfolio. There is a Sales vs Profit Margin bubble chart to enable users to compare products based on revenue and profitability efficiency, helping identify high-volume, high-margin, and underperforming products. A treemap of units sold by category and product provides additional context on sales volume, allowing stakeholders to understand which products are driving demand. The dashboard has interactive filters for product category, region and year to allow users to further explore product performance.
+
+**Profitability Drivers**
+Examines the key factors influencing profitability. This includes category-level analysis such as profit by category and a Sales vs Profit Margin comparison, enabling stakeholders to assess both total contribution and profitability efficiency across categories. The dashboard also explores the impact of discounting and shipping costs on profit margins, along with sales and profit across regions. Together, these visuals help identify factors that enhance or reduce profitability and support more informed decisions to improve margins and overall profitability.
+
+**Customer Segments**
+Provides insights into customer behaviour across different segments, including sales, profit, order volume, and average order value. This allows stakeholders to compare segment performance and better understand how different customer groups contribute to overall business outcomes.
 
 ## Insights
 The following insights emerged from the dashboards, highlighting the key drivers of profitability across products, customer segments and regions, along with opportunity areas to drive margins.
