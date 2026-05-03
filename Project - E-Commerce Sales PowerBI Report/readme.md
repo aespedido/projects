@@ -27,7 +27,7 @@ Following these recommendations is expected to improve overall profitability by 
 ## Dashboard Overview
 The PowerBI report developed consists of our interactive dashboards designed to provide visibility into sales performance and the key drivers of profitability. Each dashboard focuses on a specific area of the business, enabling stakeholders to explore insights at different levels.
 
-###Sales Overview###
+### Sales Overview
 Provides a high-level view of overall business performance, including key metrics such as total sales, profit, profit margin, and number of orders. It also displays monthly sales and profit, along with breakdowns by product category and country, allowing stakeholders to monitor performance over time and across markets.
 
 **Product Insights**
