@@ -10,7 +10,7 @@ The findings of this analysis informed a set of actionable recommendations aimed
 ## Executive Summary
 PrimeCart is an e-commerce retailer seeking to better understand the key drivers of profitability, with the aim of improving overall margins and business performance. A Power BI report with interactive dashboards was developed to monitor sales performance and provide visibility into the key factors influencing profitability, enabling stakeholders to identify insights and support data-driven decision-making.
 
-The analysis revealed that profitability is primarily driven by the Furniture and Technology categories, while Office Supplies lags behind. Clothing & Accessories, despite lower sales, delivers higher profit margins, indicating an opportunity to grow this product category. Discounting was also found to reduce profit margins, highlighting the need for a more controlled approach to pricing and promotions.
+The analysis revealed that profitability is primarily driven by the Furniture and Technology categories, while Office Supplies lags behind. Clothing & Accessories, despite lower sales, delivers higher profit margins, indicating an opportunity to grow this category. Discounting was also found to reduce profit margins, highlighting the need for a more controlled approach to pricing and promotions.
 
 At a product level, while top-selling products generate the highest total profit, they do not always achieve the highest margins. Some lower-selling products deliver stronger profit margins, indicating an opportunity to promote these products alongside high-volume items to improve overall profitability. It was also found that the Consumer segment drives the majority of sales and order volume, while Corporate customers maintain relatively strong order values.
 
@@ -18,7 +18,7 @@ Based on these findings, several recommendations have been proposed:
 
 - Optimising product mix to balance volume and profitability
 - Prioritising high-performing categories while reviewing underperforming ones
-- Expanding the Clothing & Assessories category
+- Expanding the Clothing & Accessories category
 - Implementing a more targeted discount strategy
 - Leveraging customer segments based on purchasing behaviour
 
