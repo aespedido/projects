@@ -8,7 +8,7 @@ An interactive dashboard was developed in Power BI to visualise overall sales pe
 The findings of this analysis informed a set of actionable recommendations aimed at improving profitability and supporting more effective business decision-making.
 
 ## Executive Summary
-PrimeCart is an e-commerce retailer seeking to better understand the key drivers of profitability, with the aim of improving overall margins and business performance. A Power BI dashboard was developed to monitor sales performance and provide visibility into the key factors influencing profitability, enabling stakeholders to identify insights and support data-driven decision-making.
+PrimeCart is an e-commerce retailer seeking to better understand the key drivers of profitability, with the aim of improving overall margins and business performance. A Power BI report with interactive dashboards was developed to monitor sales performance and provide visibility into the key factors influencing profitability, enabling stakeholders to identify insights and support data-driven decision-making.
 
 The analysis revealed that profitability is primarily driven by the Furniture and Technology categories, while Office Supplies lags behind. Clothing & Accessories, despite lower sales, delivers higher profit margins, indicating an opportunity to grow this product category. Discounting was also found to reduce profit margins, highlighting the need for a more controlled approach to pricing and promotions.
 
