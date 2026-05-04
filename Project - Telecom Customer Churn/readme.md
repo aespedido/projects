@@ -75,7 +75,7 @@ The dashboard shows that the churn rate is 26.54%. The top reason that customers
 
 14.55% of churned customers also reported they left due to the attitude of support person indicating that negative customer service interactions can turn customers away.
 
-### Behavioural Drivers**
+### Behavioural Drivers
 This section of the dashboard highlights customer and account-related factors that influence churn. It was found that contract type, length of tenure and pricing has a notabe impact on customer retention. These are the insights that emerged:
 
 **Contract Type**
