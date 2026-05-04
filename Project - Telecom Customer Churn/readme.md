@@ -47,7 +47,7 @@ Following the exploratory analysis, the next stage of the project focused on bui
 
 The dashboard was structured into three main sections; high level churn performance, churn behaviour drivers and service-based drivers. Selection of visualisations was based on the exploratory analysis where potential churn drivers showed a meaningful impact on churn were included on the dashboard.
 
-**High level churn performance
+**High level churn performance**
 This section provides a snapshot of overall customer churn with visualisations including:
 - Overall Churn rate KPI card
 - Churned vs Retained pie chart
