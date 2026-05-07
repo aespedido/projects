@@ -57,13 +57,13 @@ This section provides a snapshot of overall customer churn with visualisations i
 <img width="676" height="416" alt="image" src="https://github.com/user-attachments/assets/7c3cd71e-fef3-4427-9666-c61fc5653dbb" />
 
 
-#### Behaviour-based drivers**
+#### Behaviour-based drivers
 This section highlights customer and account-related factors that were found to influence churn such as tenure, contract type, monthly charges and data usage. Visualisations included:
 - Churn by Contract Type (bar chart)
 - Churn by Monthly Charge (bar chart)
 - Churn by Customer Tenure Group (bar chart)
 
-  <img width="544" height="410" alt="image" src="https://github.com/user-attachments/assets/05b9e357-1eaf-420a-b9c4-581e13847a23" />
+<img width="544" height="410" alt="image" src="https://github.com/user-attachments/assets/05b9e357-1eaf-420a-b9c4-581e13847a23" />
 
 
 #### Service-related drivers
