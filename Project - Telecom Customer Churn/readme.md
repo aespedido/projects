@@ -63,11 +63,16 @@ This section highlights customer and account-related factors that were found to 
 - Churn by Monthly Charge (bar chart)
 - Churn by Customer Tenure Group (bar chart)
 
+  <img width="544" height="410" alt="image" src="https://github.com/user-attachments/assets/05b9e357-1eaf-420a-b9c4-581e13847a23" />
+
+
 **Service-related drivers**
 This section highlights services and add-ons that showed an impact on churn. Visualisations included:
 - Impact of Online Security on Churn (bar chart)
 - Impact of Online Backup on Churn (bar chart)
 - Impact of Device Protection Plan on Churn (bar chart)
+
+<img width="542" height="398" alt="image" src="https://github.com/user-attachments/assets/d5a576e2-0209-45f9-a14d-aefbe4decd06" />
 
 
 ## Insights
