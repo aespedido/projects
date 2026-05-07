@@ -30,14 +30,24 @@ The PowerBI report developed consists of our interactive dashboards designed to 
 ### Sales Overview
 Provides a high-level view of overall business performance, including key metrics such as total sales, profit, profit margin, and number of orders. It also displays monthly sales and profit, along with breakdowns by product category and country, allowing stakeholders to monitor performance over time and across markets.
 
+<img width="818" height="458" alt="image" src="https://github.com/user-attachments/assets/b556668f-e464-477e-b9b4-d2f9434a63c2" />
+
 ### Product Insights
 Focuses on product-level performance, highlighting top-performing products by profit and providing visibility into sales, profit, and profit margin across the product portfolio. There is a Sales vs Profit Margin bubble chart to enable users to compare products based on revenue and profitability efficiency, helping identify high-volume, high-margin, and underperforming products. A treemap of units sold by category and product provides additional context on sales volume, allowing stakeholders to understand which products are driving demand. The dashboard has interactive filters for product category, region and year to allow users to further explore product performance.
+
+<img width="815" height="455" alt="image" src="https://github.com/user-attachments/assets/4987d4c5-aefb-4756-8425-1ebc50420738" />
 
 ### Profitability Drivers
 Examines the key factors influencing profitability. This includes category-level analysis such as profit by category and a Sales vs Profit Margin comparison, enabling stakeholders to assess both total contribution and profitability efficiency across categories. The dashboard also explores the impact of discounting and shipping costs on profit margins, along with sales and profit across regions. Together, these visuals help identify factors that enhance or reduce profitability and support more informed decisions to improve margins and overall profitability.
 
+<img width="817" height="458" alt="image" src="https://github.com/user-attachments/assets/61c5409a-8e6e-4fd6-b1d5-3bd67ba11081" />
+
+
 ### Customer Segments
 Provides insights into customer behaviour across different segments, including sales, profit, order volume, and average order value. This allows stakeholders to compare segment performance and better understand how different customer groups contribute to overall business outcomes.
+
+<img width="816" height="459" alt="image" src="https://github.com/user-attachments/assets/0009dfe9-bc21-4970-bba9-2726687b5e0d" />
+
 
 ## Insights
 The following insights emerged from the dashboards, highlighting the key drivers of profitability across products, customer segments and regions, along with opportunity areas to drive margins.
