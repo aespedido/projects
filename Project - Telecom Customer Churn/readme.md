@@ -47,7 +47,7 @@ Following the exploratory analysis, the next stage of the project focused on bui
 
 The dashboard was structured into three main sections; high level churn performance, churn behaviour drivers and service-based drivers. Selection of visualisations was based on the exploratory analysis where potential churn drivers showed a meaningful impact on churn were included on the dashboard.
 
-**High level churn performance**
+#### High level churn performance
 This section provides a snapshot of overall customer churn with visualisations including:
 - Overall Churn rate KPI card
 - Churned vs Retained pie chart
@@ -57,7 +57,7 @@ This section provides a snapshot of overall customer churn with visualisations i
 <img width="676" height="416" alt="image" src="https://github.com/user-attachments/assets/7c3cd71e-fef3-4427-9666-c61fc5653dbb" />
 
 
-**Behaviour-based drivers**
+#### Behaviour-based drivers**
 This section highlights customer and account-related factors that were found to influence churn such as tenure, contract type, monthly charges and data usage. Visualisations included:
 - Churn by Contract Type (bar chart)
 - Churn by Monthly Charge (bar chart)
@@ -66,7 +66,7 @@ This section highlights customer and account-related factors that were found to 
   <img width="544" height="410" alt="image" src="https://github.com/user-attachments/assets/05b9e357-1eaf-420a-b9c4-581e13847a23" />
 
 
-**Service-related drivers**
+#### Service-related drivers
 This section highlights services and add-ons that showed an impact on churn. Visualisations included:
 - Impact of Online Security on Churn (bar chart)
 - Impact of Online Backup on Churn (bar chart)
